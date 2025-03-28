@@ -1,0 +1,51 @@
+{
+	// Place your workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	"Quantum Collapse BD Evaluation": {
+		"scope": "",
+		"prefix": "bdeval",
+		"body": [
+			"## 🧠 Quantum Collapse BD Evaluation",
+			"",
+			"**Opportunity Description**  ",
+			"[Paste opportunity here]"
+		],
+		"description": "Template for evaluating business development opportunities"
+	},
+	"BD Evaluation Framework": {
+		"scope": "",
+		"prefix": "bdfull",
+		"body": [
+			"### Observer Alignment",
+			"- Does this opportunity align with my BD intent and strategic context?",
+			"- Will it enrich my classical information processing (data, leverage, influence)?",
+			"",
+			"### Latent Quantum Potential",
+			"- What unrealized value might collapse if I act on this?",
+			"- Is there signal or is this mostly informational noise?",
+			"",
+			"### Collapse Mechanics",
+			"- What specific action triggers the collapse (call, intro, pitch)?",
+			"- Is the collapse one-way? Can I reverse or defer it?",
+			"",
+			"### Value Stability",
+			"- If successful, is the outcome:",
+			"  - Measurable?",
+			"  - Repeatable?",
+			"  - Strategic?",
+			"",
+			"---",
+			"",
+			"### 🎯 Collapse Value Score (1–10):  ",
+			"[Cursor AI fills this in]",
+			"",
+			"### ✅ Final Recommendation:",
+			"[Collapse now / Delay & gather more signal / Discard as noise]"
+		],
+		"description": "Full BD evaluation framework"
+	}
+}
